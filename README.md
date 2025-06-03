@@ -46,18 +46,18 @@ Core logic for interpreting and executing commands.
 Operates on an in-memory Python dictionary.
 
 🔍 Learning Outcomes
-Practical understanding of asynchronous I/O
-Experience with socket programming in Python
-Designing lightweight network protocols
-Managing concurrent client sessions
-Command parsing and protocol abstraction
+1. Practical understanding of asynchronous I/O
+2. Experience with socket programming in Python
+3. Designing lightweight network protocols
+4. Managing concurrent client sessions
+5. Command parsing and protocol abstraction
 
 🛠 Future Improvements
-Add persistent storage using JSON or SQLite
-Include additional commands: EXISTS, KEYS, INCR
-Add server-side logging
-Web interface using Flask for GUI interaction
-Authentication layer
+1. Add persistent storage using JSON or SQLite
+2. Include additional commands: EXISTS, KEYS, INCR
+3. Add server-side logging
+4. Web interface using Flask for GUI interaction
+5. Authentication layer
 
 👩‍🎓 Author
 Shruti
